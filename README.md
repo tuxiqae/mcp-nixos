@@ -14,6 +14,7 @@
 **🚨 No Nix/NixOS Required!** This tool works on any system - Windows, macOS, Linux. You're just querying web APIs.
 
 ### Option 1: Using uvx (Recommended for most users)
+[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=nixos&config=eyJjb21tYW5kIjoidXZ4IG1jcC1uaXhvcyJ9)
 ```json
 {
   "mcpServers": {
@@ -26,6 +27,7 @@
 ```
 
 ### Option 2: Using Nix (For Nix users)
+[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=nixos&config=eyJjb21tYW5kIjoibml4IHJ1biBnaXRodWI6dXRlbnNpbHMvbWNwLW5peG9zIC0tIn0%3D)
 ```json
 {
   "mcpServers": {
